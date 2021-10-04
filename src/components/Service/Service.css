@@ -1,3 +1,14 @@
 .service{
-    padding: 5%;
+    padding: 6%;
+    margin: 3% 1%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    height: 400px;
+}
+.service h5{
+    color: midnightblue;
+    font-weight: 700;
+}
+.service p{
+    font-size: 18px;
+    font-weight: 600;
 }

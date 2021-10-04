@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div className="box">
             <div className="row">
-                <p class="footer-title">Spring University</p>
+                <p className="footer-title">Spring University</p>
             </div>
             <div className="row">
                 <div className="col-md-6">
@@ -19,10 +19,10 @@ const Footer = () => {
                 </div>
                 <div className="col-md-4">
                     <div className="row">
-                        <div className="col-md-3"><i class="fab fa-2x fa-facebook-f"></i></div>
-                        <div className="col-md-3"><i class="fab fa-2x fa-skype"></i></div>
-                        <div className="col-md-3"><i class="fab fa-2x fa-linkedin"></i></div>
-                        <div className="col-md-3"><i class="fas fa-2x fa-envelope"></i></div>
+                        <div className="col-md-3"><i className="fab fa-2x fa-facebook-f"></i></div>
+                        <div className="col-md-3"><i className="fab fa-2x fa-skype"></i></div>
+                        <div className="col-md-3"><i className="fab fa-2x fa-linkedin"></i></div>
+                        <div className="col-md-3"><i className="fas fa-2x fa-envelope"></i></div>
                     </div>
                 </div>
             </div>

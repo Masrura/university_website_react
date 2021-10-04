@@ -3,7 +3,8 @@
     width: 600px;
 }
 .banner-box{
-    background-color: lightpink;
+    background-color:lavender;
+    border-bottom: 6px solid gray;
 }
 .banner-text p{
     font-size: 20px;

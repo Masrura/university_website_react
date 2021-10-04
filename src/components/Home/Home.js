@@ -12,8 +12,9 @@ const Home = () => {
             .then(data => setServices(data));
     }, [])
     const newServices = services.slice(0, 4);
+
     return (
-        <>
+        <div>
             <div className="banner-box">
                 <div className="row align-items-center">
 
@@ -32,19 +33,17 @@ const Home = () => {
                 </div>
 
             </div>
+            {/* Services Called */}
             <div className="row">
                 {
                     newServices.map(service =>
-                        <div className="col-md-4">
-                            <Service
-                                key={service.id}
-                                service={service}
-                            ></Service>
+                        <div className="col-md-4 justify-content-center">
+                            <Service key={service.id} service={service}></Service>
                         </div>
                     )
                 }
             </div>
-        </>
+        </div>
     );
 };
 

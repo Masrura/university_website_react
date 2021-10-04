@@ -18,7 +18,7 @@ const About = () => {
                 <div className="col-md-6 p-5 m-5 about-right">
                     <div className="row align-items-center">
                         <div className="col-md-2 offset-md-1">
-                            <i class="fas fa-3x fa-user-graduate"></i>
+                            <i className="fas fa-3x fa-user-graduate"></i>
                         </div>
                         <div className="col-md-7">
                             <h4>Associate Degree</h4>
@@ -29,7 +29,7 @@ const About = () => {
 
                     <div className="row">
                         <div className="col-md-2 offset-md-1">
-                            <i class="fas fa-3x fa-certificate"></i>
+                            <i className="fas fa-3x fa-certificate"></i>
                         </div>
                         <div className="col-md-7">
                            <h4> Bachelors Degree</h4>
@@ -40,7 +40,7 @@ const About = () => {
 
                     <div className="row">
                         <div className="col-md-2 offset-md-1">
-                            <i class="fas fa-3x fa-graduation-cap"></i>
+                            <i className="fas fa-3x fa-graduation-cap"></i>
                         </div>
                         <div className="col-md-7">
                             <h4> Masters Degree</h4>

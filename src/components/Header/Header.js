@@ -12,7 +12,7 @@ const Header = () => {
             <div className="col-md-3 header">
                 <div className="row align-items-center">
                     <div className="col-md-4">
-                        <img class="img-fluid" src="logo.png" alt="" />
+                        <img className="img-fluid" src="logo.png" alt="" />
                     </div>
                     <div className="col-md-8">
                         <p>Spring University</p>
@@ -24,7 +24,7 @@ const Header = () => {
                 <nav>
                     <NavLink activeStyle={activeStyle} className="item" to="/home">Home</NavLink>
                     <NavLink activeStyle={activeStyle} className="item" to="/services">Services</NavLink>
-                    <NavLink activeStyle={activeStyle} className="item" to="/about">About</NavLink>
+                    <NavLink activeStyle={activeStyle} className="item" to="/about">About Us</NavLink>
                     <NavLink activeStyle={activeStyle} className="item" to="/contact">Contact Us</NavLink>
 
                 </nav>
