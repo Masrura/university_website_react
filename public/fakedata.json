@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Certificate Program in Agricultural Economics(AECO)",
+        "department": "Islamic Economics, Banking and Finance",
+        "duration": 1,
+        "tutionFee": "$70 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/10/Higher-Diploma-Bridge-to-MA.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Associate of Science in Islamic Economics, Banking and Finance (AIBE)",
+        "department": "Islamic Economics, Banking and Finance",
+        "duration": 2,
+        "tutionFee": "$90 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/11/Associate-of-Science-in-Islamic-Economics-Banking-and-Finance-AIBE.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Certificate in Islamic Economics, Banking and Finance (CIBE)",
+        "department": "Islamic Economics, Banking and Finance",
+        "duration": 1,
+        "tutionFee": "$50 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/11/Certificate-in-Islamic-Economics-Banking-and-Finance-CIBE.jpg"
+    },
+    {
+        "id": 4,
+        "name": "CB.Sc. in Islamic Economics, Banking and Finance (B.Sc. IBE)",
+        "department": "Islamic Economics, Banking and Finance",
+        "duration": 4,
+        "tutionFee": "$90 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/11/B.Sc_.-in-Islamic-Economics-Banking-and-Finance-B.Sc_.-IBE.jpg"
+    },
+    {
+        "id": 5,
+        "name": "PhD Islamic Sciences",
+        "department": "Islamic Studies",
+        "duration": 3,
+        "tutionFee": "$820 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2021/01/Php-islamic-pages-header.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Higher Diploma (Bridge to MA)",
+        "department": "Islamic Studies",
+        "duration": 1.5,
+        "tutionFee": "$170 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/10/Higher-Diploma-Bridge-to-MA.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Master of Arts in Islamic Studies",
+        "department": "Islamic Studies",
+        "duration": 2,
+        "tutionFee": "$250 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/10/Master-of-Arts-in-Islamic-Studies.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Bachelor of Arts in Islamic Studies",
+        "department": "Islamic Studies",
+        "duration": 4,
+        "tutionFee": "$90 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/10/Bachelorof-Arts-in-Islamic-Studies.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Associate of Science in Information Technology (AIT)",
+        "department": "Information Technology",
+        "duration": 2,
+        "tutionFee": "$90 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/11/Associate-of-Science-in-Information-Technology-AIT.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Certificate In Information Technology (CIT)",
+        "department": "Information Technology",
+        "duration": 1,
+        "tutionFee": "$90 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/11/Certificate-In-Information-Technology-CIT.jpg"
+    },
+    {
+        "id": 11,
+        "name": "B.Sc. in Information Technology",
+        "department": "Information Technology",
+        "duration": 8,
+        "tutionFee": "$90 per semester",
+        "img": "https://iou.edu.gm/wp-content/uploads/2017/11/BSc-in-Information-Technology.jpg"
+    }
+]

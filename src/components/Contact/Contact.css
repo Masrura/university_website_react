@@ -1,0 +1,8 @@
+section{
+    border: 1px solid gray;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 10%;
+}
+input, textarea{
+    margin: 10px;
+}
