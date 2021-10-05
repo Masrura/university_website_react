@@ -1,0 +1,103 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "name": "Certificate Program in Agricultural Economics(AECO)",
+            "department": "Islamic Economics, Banking and Finance",
+            "duration": 1,
+            "tutionFee": "$70 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/10/Higher-Diploma-Bridge-to-MA.jpg",
+            "description": "Agricultural Economics is the application of economic principles to the operations of the agricultural industry. The existence of linkage between the agricultural sector and the rest of the economy points to the specificity of that sector and justifies the need for the study of its economics. The Certificate in Agricultural Economics is a 1-year program that introduces students to the basics of Agricultural Economics.The aim of the program is not only to produce graduates who are properly equipped to extend the frontiers of knowledge in the discipline of Agricultural Economics, but also to enhance Islamization of knowledge in the field of Agricultural Economics. Narrated Anas bin Malik, may Allah’s Mercy be upon him: Allah’s Messenger, may Peace and Blessings of Allah SwT be upon him said: “There is none among the Muslims who plant a tree or sow seeds and then a bird or a person or an animal eats from it but is regarded as a charitable gift for him.” (Sahih Bukahri, no 2320). The International Open University offers a unique opportunity to study agricultural microeconomics, agricultural macroeconomics, farm management, rural sociology, agroclimatology, livestock management and introduction to fisheries amongst others.It provides a combination of contemporary knowledge with Islamic wisdom to produce God fearing agricultural policy makers, farm managers and agribusiness persons.This program will teach students how to excel in agricultural production economics, farm management and general agriculture without compromising one’s beliefs and ideals."
+        },
+        {
+            "id": 2,
+            "name": "Associate of Science in Islamic Economics, Banking and Finance (AIBE)",
+            "department": "Islamic Economics, Banking and Finance",
+            "duration": 2,
+            "tutionFee": "$90 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/11/Associate-of-Science-in-Islamic-Economics-Banking-and-Finance-AIBE.jpg",
+            "description": "The International Open University presents its Associate of Science in Islamic Banking and Economics. This Associate of Science degree aims to enhance existing knowledge in banking and economics from an Islamic perspective. The qualification will enable you to enter the field of Islamic banking, improve job prospects for those already in this field, and provide opportunities for further studies. “Allah has permitted trade and has forbidden interest.” (Qur’an, 2: 275) Conventional banking is filled with interest - based transactions, unlawful bank contracts, and investments.Many countries have recently seen a rise in demand for Islamic banking services as Muslims are slowly waking up turning back to Allah.It is also a very appealing option for non - Muslims who are not satisfied with the Western banking system.Analysts expect that at the current rate of expansion, in the next 8 to 10 years the Islamic banking network in the UAE will overtake the conventional banking system."
+        },
+        {
+            "id": 3,
+            "name": "Certificate in Islamic Economics, Banking and Finance (CIBE)",
+            "department": "Islamic Economics, Banking and Finance",
+            "duration": 1,
+            "tutionFee": "$50 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/11/Certificate-in-Islamic-Economics-Banking-and-Finance-CIBE.jpg",
+            "description": "The International Open University presents its Certificate program in Islamic Banking and Economics. This degree opens the door to a possible career in an exciting, expanding, and beneficial field, and is a stepping stone to further studies. “Allah has permitted trade and has forbidden interest.” (Qur’an, 2: 275) In today’s world flooded with interest - based transactions, unlawful bank contracts, and investments the need for Islamic banking is increasing.Many countries have recently seen a rise in demand for Islamic banking services.Analysts expect that at the current rate of expansion in the next 8 to 10 years, the Islamic banking network in the UAE will overtake the conventional banking system. “S & P believes the potential market for Islamic financial services to be closer to $4 trillion.” (Standard & Poor’s Ratings Services)"
+        },
+        {
+            "id": 4,
+            "name": "CB.Sc. in Islamic Economics, Banking and Finance (B.Sc. IBE)",
+            "department": "Islamic Economics, Banking and Finance",
+            "duration": 4,
+            "tutionFee": "$90 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/11/B.Sc_.-in-Islamic-Economics-Banking-and-Finance-B.Sc_.-IBE.jpg",
+            "description": "The International Open University presents its Bachelor’s Degree program in Islamic Banking and Economics. This degree opens the door to a possible career in an exciting, expanding and beneficial field, and is a stepping stone towards further studies. “Allah has permitted trade and has forbidden interest.” (Qur’an(2): 275) In today’s world flooded with interest - based transactions, unlawful bank contracts, and investments, the need for Islamic banking is increasing.Many countries have recently seen a rise in demand for Islamic banking services.Analysts expect that at the current rate of expansion, in the next 8 to 10 years the Islamic banking network in the UAE will overtake the conventional banking system. Job opportunities within the Islamic banking field are also on the rise.According to a study by A.T.Kearney, one of the world’s largest management consulting firms, “up to 30, 000 new Islamic banking jobs will be required in the Gulf States within the next decade.” While the Middle East still offers growth opportunities, there is big potential for growth in countries such as Indonesia, Bangladesh, India, and countries from North Africa and Central Asia which have a substantial Muslim population."
+        },
+        {
+            "id": 5,
+            "name": "PhD Islamic Sciences",
+            "department": "Islamic Studies",
+            "duration": 3,
+            "tutionFee": "$820 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2021/01/Php-islamic-pages-header.jpg",
+            "description": "Research degrees such as doctorates in various disciplines are the highest level of qualification awarded by universities around the world. Candidates of the Ph.D. program at IOU must complete an independent research project under supervision before submitting a final draft of a thesis that demonstrates an original contribution to the field. The doctorate may be concluded over a minimum period of three years of full-time study. IOU has a dedicated team of highly- qualified and experienced professors that will provide a high level of supervision to candidates.Completion of specialized courses in Research Methodology, coupled with the writing and oral defense of a doctoral thesis, is required.Candidates may pursue their Ph.D.in pure Islamic Studies, with a concentration in either Qur’anic Exegesis, Hadeeth, or Fiqh, or Interdisciplinary Studies that center around core issues / topics of Islamic Studies.Interdisciplinary Studies may include, but is not limited to exploring issues of: 1) Pure science 2) Applied scienc3)Humanities. Social sciences from the perspectives of the Quran and Hadeeth(sources of Islamic jurisprudence). In the case of an interdisciplinary study, co - supervision will be provided to the candidate. A doctoral thesis must demonstrate genuine scholarship that contributes to the existing body of knowledge.The content has to reflect comprehensive understanding and control of the subject, and show proficiency in the ability to amass and consolidate evidence in order to come to logical conclusions."
+        },
+        {
+            "id": 6,
+            "name": "Higher Diploma (Bridge to MA)",
+            "department": "Islamic Studies",
+            "duration": 1.5,
+            "tutionFee": "$170 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/10/Higher-Diploma-Bridge-to-MA.jpg",
+            "description": "The Higher Diploma (Bridge to Masters) course is offered to students who already possess an undergraduate degree or its equivalent in other disciplines and would like to enter the Masters degree (MAIS) program, rather than our undergraduate Degree in Islamic Studies. This is a one and a half year program (3 semesters – 6 courses in the first semester and 5 courses in the last two semesters) that can be completed in a maximum of 4 and a half years time. The minimum academic qualification to enter the IOU Higher Diploma program is a Bachelor’s degree in any field. The Higher Diploma is an accredited program. Students who successfully complete this program  will be given a certificate. There are three options for graduates of the BMAIS program:"
+        },
+        {
+            "id": 7,
+            "name": "Master of Arts in Islamic Studies",
+            "department": "Islamic Studies",
+            "duration": 2,
+            "tutionFee": "$250 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/10/Master-of-Arts-in-Islamic-Studies.jpg",
+            "description": "The International Open University (IOU) has launched the Master’s degree in Islamic Studies program, which is offered completely online and in English as a medium of instruction. This is an excellent opportunity for the BA students to continue, further, and enhance their understanding and knowledge of the religion.This graduate program consists of 15 courses, thesis preparation and the master’s thesis in the fourth semester.* The regular duration of the program is two years.Nevertheless, students may complete it within one and half years minimum.One can take a maximum of four years to complete the program. In general, higher education will enable students to expand their knowledge and skills, and be more effective and eloquent in speech and writing.For those who wish to enter the working field, higher education is a great asset in acquiring valuable and respected positions. To be specific, higher education in Islamic studies will provide the opportunity to earn beneficial knowledge that will enable one—by the will and mercy of Allah—to perfect their religion, and obtain the pleasure of Allah by seeking and spreading knowledge of His religion.It is, in fact, one of the ways to gain sadaqa jariya(continuous rewards).It is evident that the more one knows, the more one can share.And the more one shares, the more one can gain which enables to reach higher levels of paradise. The knowledgeable and the ignorant is never the same in the eyes of Allah as He says(interpretation of the meaning), “Say, ‘Are those who know equal to those who do not know?'” (Qur’an, Az-Zumar 39:9)"
+        },
+        {
+            "id": 8,
+            "name": "Bachelor of Arts in Islamic Studies",
+            "department": "Islamic Studies",
+            "duration": 4,
+            "tutionFee": "$90 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/10/Bachelorof-Arts-in-Islamic-Studies.jpg",
+            "description": "The International Open University launched the world’s first online Bachelor’s Degree program in Islamic Studies in English. This is a major step towards helping Muslims across the globe fulfill the Prophet’s command to seek knowledge of the religion and to correct and enhance their understanding of its tenets. The program consists of recorded audio and video lectures and weekly live tutorial classes in a virtual classroom.The syllabus is based on the Bachelor’s degree program in Usool ud- Deen(Religious Foundations) of Madeenah University, Saudi Arabia, Omdurman Islamic University, Sudan, Al - Azhar University, Egypt, and other similar reputable Islamic institutions.Six subjects are offered in each semester of a five - month duration.There is an online mid - term exam after two and a half months of study, and a supervised online final exam at the end of the fifth month.Students can access their classes according to their convenience.However, assignments have to be turned in, and exams(mid - term and final) have to be taken at fixed times. Studying with the International Open University is affordable and manageable.We are an institute that seeks its reward from Allah, and therefore there is just a semester registration fee which is calculated on a sliding scale(from $70 to $160), depending on the student’s country of residence."
+        },
+        {
+            "id": 9,
+            "name": "Associate of Science in Information Technology (AIT)",
+            "department": "Information Technology",
+            "duration": 2,
+            "tutionFee": "$90 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/11/Associate-of-Science-in-Information-Technology-AIT.jpg",
+            "description": "The Associate of Science in Information Technology (AIT) is the stepping-stone to the exciting word of computers where the possibilities are limited to one’s own imagination. IT is the application of computers and telecommunication systems to produce, manipulate, store, organize, retrieve, and transmit data. It involves development, installation, implementation, management, and maintenance of computer hardware and software within companies, universities, and other organizations. International Open University joins worldly IT knowledge and Islamic knowledge in this amazing program. Hence, we’ve created a unique opportunity for students to fulfill their religious duty of seeking and sharing knowledge while securing worldly benefits. The knowledge of IT enables students to develop software programs and applications for the benefit of the society. “The best of people are those who are most beneficial to people.” (Al-Mu?jam Al-Awsat, 5787)“ .The Associate of Science in Information Technology program can later be applied to a 4-year Bachelor degree in the same field."
+        },
+        {
+            "id": 10,
+            "name": "Certificate In Information Technology (CIT)",
+            "department": "Information Technology",
+            "duration": 1,
+            "tutionFee": "$90 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/11/Certificate-In-Information-Technology-CIT.jpg",
+            "description": "Have you ever downloaded or searched through a Qur’an or hadith application and wished to have the knowledge to make an app of your own in order to get that enormous continuous reward? The Certificate in Information Technology (CIT) is an introduction program to the exciting world of computers, where the possibilities are limited only to one’s own imagination. IT is the application of computers and telecommunication systems to produce, manipulate, store, organize, retrieve, and transmit data. It involves development, installation, implementation, management, and maintenance of computer hardware and software within companies, universities, and other organizations. International Open University joins worldly IT knowledge and Islamic knowledge in this amazing program.Hence, IOU has created a unique opportunity for students to fulfill their religious duty of seeking and sharing knowledge while securing worldly benefits.“The best of people are those who are most beneficial to people.” (Al - Mu ? jam Al - Awsat, 5787) “ The Certificate in Information Technology program can later be applied to a 2 - year Diploma or 4 - year Bachelor in the same field."
+        },
+        {
+            "id": 11,
+            "name": "B.Sc. in Information Technology",
+            "department": "Information Technology",
+            "duration": 8,
+            "tutionFee": "$90 per semester",
+            "img": "https://iou.edu.gm/wp-content/uploads/2017/11/BSc-in-Information-Technology.jpg",
+            "description": "The B.Sc. in Information Technology program prepares students to meet the information and communication technology needs of government, business, healthcare, universities, and other kinds of organizations. Information Technology (IT) is the application of computers and telecommunication systems to produce, manipulate, store, organize, retrieve, and transmit data. It involves development, installation, implementation, management, and maintenance of computer hardware and software within companies, universities, and other organizations. IT graduates assume the responsibility of the development and selection of the appropriate computer hardware and software products and systems for an organization; and the installation, customization, implementation, management, and maintenance of such products and systems for the organization’s computer users. The International Open University joins worldly IT knowledge and Islamic knowledge in this exciting program.Hence, we’ve created a unique opportunity for students to fulfill their religious duty of seeking and sharing knowledge while securing worldly benefits.In today’s society, computers and information technology touches almost every aspect of modern life.Thus, learning IT is a magnificent way, that a person can contribute to his/ her society."
+        }
+    ]
+}
